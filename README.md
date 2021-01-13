@@ -1,4 +1,4 @@
-# Comdefend_pytorch
+# An simple end-to-end model to defend adversial  examples
 
 ## Requires
 - Pytorch 1.7.0
