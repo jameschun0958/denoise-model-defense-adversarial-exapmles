@@ -1,0 +1,9 @@
+{
+    "model_version": "CIFAR10",
+    "model_name":"CIFAR10-ComDefend-tmp",
+    "batch_size": 64,
+    "num_workers": 32,
+    "learning_rate": 0.001,
+    "num_epochs": 30,
+    "dataset":"cifar10"
+}
