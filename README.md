@@ -8,7 +8,7 @@
 - matplotlib 3.3.1
 
 ## Note
-! You also have to prepare pre-trained weight and model to the corresponding folder by yourself.
+You have to prepare model and pre-trained weight and place to the corresponding folder by yourself.
 
 
 ## Usage
